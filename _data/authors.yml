@@ -8,13 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
-    I am a postdoctoral university assistant at the [University of Vienna](https://www.univie.ac.at/) in the [Department of Statistics and Operations Research](https://isor.univie.ac.at/).  I am a member of the research group [QUARIMAFI - Quantitative Risk Management and Mathematical Finance](https://quarimafi.univie.ac.at/) and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by [Prof. Christa Cuchiero](https://homepage.univie.ac.at/christa.cuchiero/).
-
-    Previously, I completed my doctorate degree in Mathematics at the University of Mannheim under the supervision of David Prömel. I received my bachelor's and master's degree in Mathematics at the University of Heidelberg.
-
-    Please find my [CV](https://annapkwossek.github.io/annapkwossek.github.io/docs/CV.pdf) here.
-    
-    I am interested in stochastic analysis, in particular pathwise stochastic calculus, rough path theory and signatures, and their applications to mathematical finance.
+    <p>I am a postdoctoral university assistant at the [University of Vienna](https://www.univie.ac.at/) in the [Department of Statistics and Operations Research](https://isor.univie.ac.at/).  I am a member of the research group [QUARIMAFI - Quantitative Risk Management and Mathematical Finance](https://quarimafi.univie.ac.at/) and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by [Prof. Christa Cuchiero](https://homepage.univie.ac.at/christa.cuchiero/).</p>
+    <p>Previously, I completed my doctorate degree in Mathematics at the University of Mannheim under the supervision of David Prömel. I received my bachelor's and master's degree in Mathematics at the University of Heidelberg.</p>
+    <p>Please find my [CV](docs/CV.pdf) here.</p>
+    <p>I am interested in stochastic analysis, in particular pathwise stochastic calculus, rough path theory and signatures, and their applications to mathematical finance.</p>
 
   # This photo will be used in the about section
   #picture:
