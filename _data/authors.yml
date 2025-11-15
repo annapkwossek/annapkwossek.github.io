@@ -2,17 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Anna > <Kwossek>
-  email:             <anna.paula.kwossek@univie.ac.at>
+  name:              Anna Kwossek
+  email:             anna.paula.kwossek@univie.ac.at
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+  about:
+    I am a postdoctoral university assistant at the University of Vienna in the Department of Statistics and Operations Research. 
+    I am a member of the research group QUARIMAFI - Quantitative Risk Management and Mathematical Finance and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by Christa Cuchiero.
 
   # This photo will be used in the about section
   picture:
@@ -29,7 +26,7 @@ author1:
   social:
     #twitter:         <username>
     #github:          <username>
-    email:            <anna.paula.kwossek@univie.ac.at>
+    email:            anna.paula.kwossek@univie.ac.at
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
