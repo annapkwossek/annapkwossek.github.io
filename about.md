@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -20,5 +20,5 @@ AT-1090 Vienna<br>
 
 *Office:* 05.51<br>
 *Phone:* +43-1-4277-38692<br>
-*Mail:*anna.paula.kwossek@univie.ac.at<br>
+*Mail:* anna.paula.kwossek@univie.ac.at<br>
 *Office hours:* by appointment
