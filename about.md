@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-## About
+### About
 
 <!--author-->
 
@@ -22,5 +22,3 @@ AT-1090 Vienna<br>
 *Phone:* +43-1-4277-38692
 *Mail:*anna.paula.kwossek@univie.ac.at
 *Office hours:* by appointment
-
-# Test
