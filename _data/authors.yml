@@ -8,11 +8,12 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
-    I am a postdoctoral university assistant at the <a href="https://www.univie.ac.at/" class ="external" target="_blank" rel="noopener noreferrer">University of Vienna</a> in the <a href="https://isor.univie.ac.at/" target="_blank" rel="noopener noreferrer">Department of Statistics and Operations Research</a>.  I am a member of the research group <a href="https://quarimafi.univie.ac.at/" target="_blank" rel="noopener noreferrer">QUARIMAFI - Quantitative Risk Management and Mathematical Finance<a/> and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by <a href="https://homepage.univie.ac.at/christa.cuchiero/" target="_blank" rel="noopener noreferrer">Prof. Christa Cuchiero</a>.
+    I am a postdoctoral university assistant at the <a href="https://www.univie.ac.at/" class ="external" target="_blank" rel="noopener noreferrer">University of Vienna</a> in the <a href="https://isor.univie.ac.at/" class ="external" target="_blank" rel="noopener noreferrer">Department of Statistics and Operations Research</a>.  
+    I am a member of the research group <a href="https://quarimafi.univie.ac.at/" target="_blank" class ="external" rel="noopener noreferrer">QUARIMAFI - Quantitative Risk Management and Mathematical Finance<a/> and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by <a href="https://homepage.univie.ac.at/christa.cuchiero/" class ="external" target="_blank" rel="noopener noreferrer">Prof. Christa Cuchiero</a>.
     
     <p>Previously, I completed my doctorate degree in Mathematics at the University of Mannheim under the supervision of David Prömel. I received my bachelor's and master's degree in Mathematics at the University of Heidelberg.</p>
     
-    <p>Please find my <a href=" /docs/CV.pdf" target="_blank" rel="noopener noreferrer">CV</a> here.</p>
+    <p>Please find my <a href=" /docs/CV.pdf" class ="external" target="_blank" rel="noopener noreferrer">CV</a> here.</p>
     
     <p>I am interested in stochastic analysis, in particular pathwise stochastic calculus, rough path theory and signatures, and their applications to mathematical finance.</p>
 
