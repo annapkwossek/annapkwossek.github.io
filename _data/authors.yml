@@ -8,8 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
-    I am a postdoctoral university assistant at the University of Vienna in the Department of Statistics and Operations Research. 
-    I am a member of the research group QUARIMAFI - Quantitative Risk Management and Mathematical Finance and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by Christa Cuchiero.
+    I am a postdoctoral university assistant at the [University of Vienna]{https://www.univie.ac.at/} in the [Department of Statistics and Operations Research]{https://isor.univie.ac.at/}.  I am a member of the research group [QUARIMAFI - Quantitative Risk Management and Mathematical Finance]{https://quarimafi.univie.ac.at/} and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by [Prof. Christa Cuchiero]{https://homepage.univie.ac.at/christa.cuchiero/}.
 
   # This photo will be used in the about section
   picture:
