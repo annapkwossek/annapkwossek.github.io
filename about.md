@@ -16,7 +16,7 @@ I am interested in stochastic analysis, in particular pathwise sthastic calculus
 #### Contact
 University of Vienna, Department of Statistics and Operations Research<br>
 Kolingasse 14-16<br>
-AT-1090 Vienna<br>
+AT-1090 Vienna<, Austria
 
 *Office:* 05.51<br>
 *Phone:* +43-1-4277-38692<br>
