@@ -4,7 +4,10 @@
 // }
 
 a {
-  color: rgb(000,099,166);       /* Your desired color */
-  text-decoration: none; /* Removes the underline */
-  cursor: pointer;       /* Shows pointer on hover */
+  color: rgb(000,099,166) !important;       /* Your desired color */
+  text-decoration: none !important; /* Removes the underline */
+  cursor: pointer !important;       /* Shows pointer on hover */
+}
+a::after{
+  content: none !important;
 }
