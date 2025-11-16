@@ -50,10 +50,14 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Research
-    url:               /research/
+  - title:             Publications and Preprints
+    url:               /pubs/
   - title:             Teaching
     url:               /teaching/
+  - title:             Talks
+    url:               /talks/
+  - title:             Miscellaneous
+    url:               /misc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
