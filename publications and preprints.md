@@ -1,14 +1,13 @@
 ---
 layout: page
-title:
 ---
 
-### Publications in Peer Reviewed Journals
+#### Publications in Peer Reviewed Journals
 * Pathwise Convergence of the Euler Scheme for Rough and Stochastic Differential Equations, with Andrew L. Allan, Chong Liu and David J. Prömel, J. London Math. Soc., 112 (2025), no. 3, pp. 1–51. https://doi.org/10.1112/
 jlms.70297
 * Functional differential equations driven by càdlàg rough paths, with Andreas Neuenkirch and David J. Prömel, Electron. J. Probab. 30: 1-32 (2025). https://doi.org/10.1214/25-EJP1381
 
-### Preprints
+#### Preprints
 
 * Andrew L. Allan, Anna P. Kwossek, Chong Liu, and David J. Pr¨omel, Pathwise analysis of log-optimal portfolios,
 2025, https://arxiv.org/abs/2507.18232
