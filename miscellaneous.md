@@ -14,4 +14,4 @@ title:
 
 #### Fundings
 
-* Circle U. 2030 Postdoc Mobility Fellowship:<br> Funding for a one-month research stay at King’s College London to collaborate with Dr. Purba Das
+* Circle U. 2030 Postdoc Mobility Fellowship:<br> Funding for a one-month research stay at King’s College London to collaborate with Purba Das
