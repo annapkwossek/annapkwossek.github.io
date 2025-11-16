@@ -3,6 +3,8 @@ layout: page
 title:
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=JiIT1c0AAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"}
+
 #### Publications in Peer Reviewed Journals
 * Pathwise convergence of the Euler scheme for rough and stochastic differential equations, with Andrew L. Allan, Chong Liu and David J. Prömel, J. London Math. Soc., 112 (2025), no. 3, pp. 1–51. [doi.org/10.1112/jlms.70297](https://doi.org/10.1112/jlms.70297){:target="_blank" rel="noopener noreferrer"}
 * Functional differential equations driven by càdlàg rough paths, with Andreas Neuenkirch and David J. Prömel, Electron. J. Probab., 30 (2025), article no. 117, pp. 1-32. [doi.org/10.1214/25-EJP1381](https://doi.org/10.1214/25-EJP1381){:target="_blank" rel="noopener noreferrer"}
