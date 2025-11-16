@@ -3,7 +3,7 @@
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
 
-body :not(.sidebar) a {
+.content a {
   color: rgb(000,099,166) !important;       /* Your desired color */
   text-decoration: none !important; /* Removes the underline */
   cursor: pointer !important;       /* Shows pointer on hover */
