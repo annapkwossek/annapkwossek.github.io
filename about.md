@@ -5,7 +5,7 @@ title:
 
 I am a postdoctoral university assistant at the [University of Vienna](https://www.univie.ac.at/){:target="_blank" rel="noopener noreferrer"} in the [Department of Statistics and Operations Research](https://isor.univie.ac.at/){:target="_blank" rel="noopener noreferrer"}.  
 
-I am a member of the research group [QUARIMAFI - Quantitative Risk Management and Mathematical Finance](https://quarimafi.univie.ac.at/){:target="_blank" rel="noopener noreferrer"} and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by [Prof. Christa Cuchiero](https://homepage.univie.ac.at/christa.cuchiero/){:target="_blank" rel="noopener noreferrer"}.
+I am a member of the research group [QUARIMAFI - Quantitative Risk Management and Mathematical Finance](https://quarimafi.univie.ac.at/){:target="_blank" rel="noopener noreferrer"} and a project staff member of the START research project "Universal Structures in Mathematical Finance" led by [Christa Cuchiero](https://homepage.univie.ac.at/christa.cuchiero/){:target="_blank" rel="noopener noreferrer"}.
     
 Previously, I completed my doctorate degree in Mathematics at the University of Mannheim under the supervision of David Prömel. I received my bachelor's and master's degree in Mathematics at the University of Heidelberg.
 
