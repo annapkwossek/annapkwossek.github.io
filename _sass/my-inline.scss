@@ -4,14 +4,10 @@
 // }
 
 .content a {
-  color: rgb(202,138,219) !important;       /* Your desired color */
+  color: rgb(000,050,083) !important;       /* Your desired color */
   text-decoration: none !important; /* Removes the underline */
   cursor: pointer !important;       /* Shows pointer on hover */
 }
 a::after{
   content: none !important;
-}
-
-body {
-  color: rgb(000,050,083) !important;
 }
