@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: Miscellaneous
 ---
 
 #### Referee Activity
