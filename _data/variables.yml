@@ -5,7 +5,7 @@
 
   root_font_size_print: 8 #pt
 
-  root_line_height: 1.6
+  root_line_height: 1.75
   #1.75
 
   font_weight: 400 #=normal
@@ -15,11 +15,11 @@
   font_weight_heading: 600 #=black (heavy)
   #900
 
-  content_width: 36 #rem
+  content_width: 42 #rem
   #42
-  content_width_2: 40 #rem
+  content_width_2: 48 #rem
   #48
-  content_width_5: 48 #rem
+  content_width_5: 54 #rem
   #54
 
   sidebar_width: 17 #rem
