@@ -1,10 +1,11 @@
 ---
 layout: about
+title:
 ---
 
 <!--author-->
 
-### Contact
+#### Contact
 University of Vienna, Department of Statistics and Operations Research<br>
 Kolingasse 14-16<br>
 AT-1090 Vienna<br>
