@@ -2,10 +2,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'talks', url: '/talks'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'miscellaneous', url: '/miscellaneous'}
-
-social:
-- {icon: 'linkedin', link: 'http://linkedin.com/in/anna-paula-kwossek-30abb2228'}
+- {name: 'miscellaneous', url: '/miscellaneous}
 
 contacts:
 - {institution: 'University of Vienna', department: 'Department of Statistics and Operations Research', institution_address: 'Kolingasse 14-16, AT-1090 Vienna, Austria', phone: '+43-1-4277-38692', email: 'anna.paula.kwossek@univie.ac.at', office: '05.51'}
