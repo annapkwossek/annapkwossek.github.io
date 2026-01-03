@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Publications"
 ---
 <h6>Publications in Peer Reviewed Journals</h6>
