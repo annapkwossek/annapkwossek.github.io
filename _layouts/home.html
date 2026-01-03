@@ -10,3 +10,20 @@ layout: default
     <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
   </div>
 </div>
+
+<div class="row g-5 mb-5">
+  <div>
+    <h5 class="fw-bold border-bottom pb-3 mb-5">Contact</h5>
+    {% for contact in site.data.settings.contacts %}
+    <div class="row g-5 mb-5">
+      <div class="col-md-6">
+        <p>{{ contact.institution }}, {{ contact.department }}</p>
+        <p>{{ contact.institution_address }}</p>
+        <p>Office: {{ contact.office }}</p>
+        <p>Phone: {{ contact.phone }}</p>
+        <p>Mail: {{ contact.email }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
