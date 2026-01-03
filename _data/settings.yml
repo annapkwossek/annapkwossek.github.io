@@ -3,7 +3,6 @@ menu:
 - {name: 'talks', url: '/talks'}
 - {name: 'teaching', url: '/teaching'}
 - {name: 'miscellaneous', url: '/miscellaneous'}
-- {name: 'contact', url: '/contact'}
 
 social:
 - {icon: 'linkedin', link: 'http://linkedin.com/in/anna-paula-kwossek-30abb2228'}
