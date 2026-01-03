@@ -7,6 +7,6 @@ I am a postdoctoral university assistant at the <a href="https://www.univie.ac.a
 
 Previously, I completed my doctorate degree in Mathematics at the University of Mannheim under the supervision of David Prömel. I received my bachelor's and master's degree in Mathematics at Heidelberg University.
 
-Please find my <a href="home/cv.pdf" "target="_blank">CV</a> here.
+Please find my <a href="home/cv.pdf" target="_blank">CV</a> here.
 
 I am interested in stochastic analysis, in particular pathwise stochastic calculus, rough path theory and signatures, and their applications in mathematical finance.
