@@ -4,11 +4,11 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p>{{ contact.institution }} | {{ contact.department }}</p>
+        <p>{{ contact.institution }}, {{ contact.department }}</p>
         <p>{{ contact.institution_address }}</p>
-        <p>Phone: {{ contact.phone }}</p>
-        <p>Email: {{ contact.email }}</p>
         <p>Office: {{ contact.office }}</p>
+        <p>Phone: {{ contact.phone }}</p>
+        <p>Mail: {{ contact.email }}</p>
       </div>
     </div>
     {% endfor %}
